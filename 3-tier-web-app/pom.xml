@@ -15,11 +15,13 @@
     </properties>
     
     <dependencies>
+        
         <dependency>
-            <groupId>com.mysql</groupId>
-            <artifactId>management</artifactId>
-            <version>5-0-2-beta</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.6</version>
         </dependency>
+
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
